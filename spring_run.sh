@@ -1,0 +1,1 @@
+JAVA_HOME=~/.jdks/openjdk-18.0.1.1 ./mvnw spring-boot:run

@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.runtimes": [
+			{
+				"name": "JavaSE-18",
+				"path": "~/.jdks/openjdk-18.0.1.1",
+				"default": true,
+			}
+		],
+		"java.jdt.ls.java.home": "~/.jdks/openjdk-18.0.1.1",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
